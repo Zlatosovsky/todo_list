@@ -3,5 +3,6 @@
 body {
   background-image: url(asset-path('back.png'));
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  background-attachment: fixed;
 }
