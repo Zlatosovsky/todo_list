@@ -15,6 +15,7 @@ group :test do
 end
 
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
